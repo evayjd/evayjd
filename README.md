@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="2881771771678_.pic.jpg" width="100%" />
+  <img src="2881771771678_.pic.jpg" width="70%" />
 </div>
 
 # Hi, I'm Yujing
